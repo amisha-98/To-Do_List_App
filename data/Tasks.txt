@@ -1,0 +1,8 @@
+1|Complete project documentation|Write comprehensive documentation for the todo application including setup instructions and API details|false|2024-06-15T10:30:00|null|High
+2|Prepare for technical interview|Review common interview questions, practice coding problems, and prepare project presentation|false|2024-06-15T11:00:00|null|High
+3|Update resume with recent projects|Add todo application and other recent achievements to resume|true|2024-06-15T11:30:00|2024-06-15T14:20:00|Medium
+4|Learn Spring Boot framework|Explore Spring Boot framework for backend development and create sample project|false|2024-06-15T12:00:00|null|Low
+5|Code review for team project|Review pull requests from team members and provide constructive feedback|true|2024-06-15T13:00:00|2024-06-15T15:45:00|Medium
+6|Set up development environment|Configure IDE, install necessary plugins, and set up version control|true|2024-06-14T09:00:00|2024-06-14T16:30:00|High
+7|Research competitor applications|Analyze similar todo applications to identify best practices and features|false|2024-06-15T14:00:00|null|Low
+9|Buy a toothbrush|I need a new toothbrush|false|2025-06-19T00:25:07.4856252|null|Medium
